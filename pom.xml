@@ -162,7 +162,7 @@
     <aws-sdk-2.version>2.16.104</aws-sdk-2.version>
     <openhft-affinity.version>3.1.7</openhft-affinity.version>
     <fbs.version>1.12.0</fbs.version>
-    <rocksdb.version>5.14.2</rocksdb.version>
+    <rocksdb.version>6.29.4.1</rocksdb.version>
     <opencensus.version>0.31.1</opencensus.version>
     <grpc.version>1.45.0</grpc.version>
     <snakeyaml.version>1.31</snakeyaml.version>

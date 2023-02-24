@@ -36,7 +36,7 @@
     <dremio.hive.plugin-group-id>com.dremio.plugins</dremio.hive.plugin-group-id>
     <dremio.hive.plugin-artifact-id-prefix>dremio</dremio.hive.plugin-artifact-id-prefix>
     <!-- You will also need to increase the maxSize for the MapR version, under a profile in this file  -->
-    <dremio.distribution.tar.maxSize>780000000</dremio.distribution.tar.maxSize>
+    <dremio.distribution.tar.maxSize>900000000</dremio.distribution.tar.maxSize>
     <dremio.distribution.rpm.maxSize>760000000</dremio.distribution.rpm.maxSize>
   </properties>
 
